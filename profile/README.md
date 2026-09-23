@@ -1,4 +1,4 @@
-# UFPR - IDR
+# UFPR - IDR - CattleID
 Project developed to automatically identify cattle based on the muzzle points.
 
 ## Code
