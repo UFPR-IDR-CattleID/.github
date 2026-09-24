@@ -9,6 +9,9 @@ In case you don't have enough time to read it, you can read ["The Best of the Be
 ## Previous Members
 
 Edu Gobbo - Helped develop the pipeline for the old matcher and validation of results.
+
 João Picolo - Helped refactor the old code and develop general utilities.
+
 Thauan - Developed the app for the old CattleID, used to acquire the original "Firebase" dataset.
+
 Jorge - Original team leader of the project, developed the training and use of YOLOv5 and 8 and the PoolNet for segmentation, alongside the graph extraction.
