@@ -14,4 +14,4 @@ João Picolo - Helped refactor the old code and develop general utilities.
 
 Thauan - Developed the app for the old CattleID, used to acquire the original "Firebase" dataset.
 
-Jorge - Original team leader of the project, developed the training and use of YOLOv5 and 8 and the PoolNet for segmentation, alongside the graph extraction.
+Jorge Luiz dos Santos Ramos - Original team leader of the project, developed the training and use of YOLOv5 and 8 and the PoolNet for segmentation, alongside the graph extraction.
