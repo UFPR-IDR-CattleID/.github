@@ -16,4 +16,4 @@ Thauan - Developed the app for the old CattleID, used to acquire the original "F
 
 Gabriel Marczuk Tha - Developed the app for the old CattleID, alongside Thauan.
 
-Jorge Luiz dos Santos Ramos - Original team leader of the project, developed the training and use of YOLOv5 and 8 and the PoolNet for segmentation, alongside the graph extraction.
+Jorge Luiz dos Santos Ramos - Original team leader of the project, developed the training and inference of YOLOv5 and v8 for ROI as well as the PoolNet for segmentation, alongside the graph extraction.
